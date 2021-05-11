@@ -153,6 +153,7 @@ public class ReadFileService {
     }
 
     private static List<String> parseCsvRecord(String record, char csvSeparator) {
+
         // Prepare.
         boolean quoted = false;
         StringBuilder fieldBuilder = new StringBuilder();
