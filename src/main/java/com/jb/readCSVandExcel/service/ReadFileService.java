@@ -150,27 +150,9 @@ public class ReadFileService {
             }
         }
         return workBook;
-
-
-        //        List<String> header = csvList.get(0);
-//        csvList.remove(0);
-//        HashMap<String, Object> product = new HashMap<>();
-//        List<HashMap<String, Object>> products = new ArrayList();
-//
-//
-//        for (List a : csvList) {
-//            //TODO: VERIFICA SE ISSO É A MELHOR FORMA DE FAZER ISSO
-//
-//            for (int i = 0; i < a.size(); i++) {
-//                product.put(header.get(i), a.get(i));
-//            }
-//            products.add(product);
-//        }
-//        return products;
     }
 
     private static List<String> parseCsvRecord(String record, char csvSeparator) {
-
         // Prepare.
         boolean quoted = false;
         StringBuilder fieldBuilder = new StringBuilder();
