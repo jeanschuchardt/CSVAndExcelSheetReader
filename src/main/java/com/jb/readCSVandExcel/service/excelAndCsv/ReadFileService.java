@@ -1,4 +1,4 @@
-package com.jb.readCSVandExcel.service;
+package com.jb.readCSVandExcel.service.excelAndCsv;
 
 import com.opencsv.CSVReader;
 import lombok.SneakyThrows;
