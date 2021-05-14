@@ -1,9 +1,14 @@
-# ReadCSVandExcell
+# Generic Project
 
-Hey,  
-here, I created an example of how use `opencsv` and `apache.poi`  for read `csv` and `excel` files respectively
+it is a spring-boot project using maven. 
 
-it is a spring boot project. 
+here I add some randon methods for learning propouse.
+
+there is 2 classes related to an example of how use `opencsv` and `apache.poi`  for read `csv` and `excel` files respectively
+
+more are comming 
+
+
 
 #### References
 
