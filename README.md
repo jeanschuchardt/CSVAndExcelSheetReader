@@ -1,4 +1,7 @@
-# Generic Project
+# CSV And Excel Sheet Reader
+
+study project to read csv file and excel sheet 
+
 
 it is a spring-boot project using maven. 
 
